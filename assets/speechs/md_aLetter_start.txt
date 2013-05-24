@@ -1,0 +1,7 @@
+A letter
+Deliver this letter to <T> !
+The official messenger has been killed by an opponent corporation's member.
+This letter contains important economic secret
+You have been pleased to accomplish this task
+If you're succeed in this mission, I will remember it!
+End : <TL> 

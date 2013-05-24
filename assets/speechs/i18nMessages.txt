@@ -1,0 +1,144 @@
+agentType.vendor=Vendor
+agentType.missionAgency=Mission Agency
+agentType.travelAgency=Travel Agency
+agentType.liftMaster=Lift Master
+agentType.doctor=Doctor
+
+missionType.delivery=Delivery
+missionType.bounty=Bounty
+
+dialog.flee.failed=Flee failed !
+dialog.loot=You have looted <0> x <1>.
+dialog.travelCost=Travel will cost <0> credits.
+dialog.notEnoughCredits=Not enough credits, sorry !
+dialog.notEnoughStanding=Not enough standing, sorry !
+dialog.notEnoughSlots=Not enough cargo space !
+dialog.notEnoughSp=Not enough skill point !
+dialog.exploration.tooSoon.min=Too soon ! Please retry in <0> min.
+dialog.exploration.tooSoon.sec=Too soon ! Please retry in <0> sec.
+dialog.exploration.echec=Nothing to explore, please retry later !
+dialog.welcome.message=Welcome on board !
+dialog.saveGame.load=Please, select the 'Savegame' to load !
+dialog.saveGame.delete=Please, select the 'Savegame' to delete !
+dialog.saveGame.newNameNull=You must register a name !
+dialog.saveGame.info=Please, click on [Load] to play, or [Delete] to remove this 'Savegame'.
+dialog.entity.click.tooFar=Too far !
+dialog.entity.click.repNegative=Standing is too low !
+dialog.mission.noMoreSlot=No more mission slots available!
+dialog.mission.locateEsca=Target located, Zone: '<0>' at '<1>'.
+dialog.mission.locatePlanete=Target located at '<0>'.
+dialog.mission.locate.ko=Unable to locate the target.
+dialog.mission.execute.ko=You have to go to the planet before beginning the mission !
+dialog.mission.failed=Mission '<0>' failed !
+dialog.politics.rankAvailable=New rank available <0>, it will cost <1> credits.
+dialog.conflit.new=New Conflict ! <0> vs <1>.
+
+titre.about=About :
+titre.armor=Armor :
+titre.achievement=Achievement :
+titre.changeLogs=Change Logs :
+titre.doctor=Doctor :
+titre.inventory=Inventory :
+titre.option=Options :
+titre.lift=Lift :
+titre.mission=Mission :
+titre.military.weapon=Weapon :
+titre.military.armor=Armor :
+titre.newMission=New Mission :
+titre.politicsConflict=Politic - Conflicts :
+titre.politicsReputation=Politic - Standing :
+titre.saveGame=Save Game :
+titre.skills=Skills :
+titre.starter=Starter :
+titre.status=Status :
+titre.vendors=Vendors :
+titre.warning=Warning !
+titre.weapon=Weapon :
+titre.wellDone=Well Done !
+
+gui.achievement.rowData.timePlayed=Time Played : <0>:<1>
+gui.achievement.rowData.playerDeath=Count of death : <0>
+gui.achievement.rowData.missionFinished=Mission finished : <0>
+gui.achievement.rowData.missionRemoved=Mission canceled : <0>
+gui.achievement.rowData.missionFailed=Mission failed : <0>
+gui.achievement.rowData.pedometer=Pedometer (meter) : <0>
+
+gui.doctor.btHeal=Heal
+gui.doctor.infoCost=I will heal you for <0>. It will cost <1> credits.
+gui.doctor.noNeed=You don't need to be heal.
+
+gui.inGame.btStatus=Status
+gui.inGame.btInventory=Inventory
+gui.inGame.btResume=Resume
+gui.inGame.btSaveQuit=Save & Quit
+gui.inGame.btMission=Mission
+gui.inGame.btPolitics=Politic
+gui.inGame.btLeaveEsca=Leave
+gui.inGame.btFlee=Flee
+gui.inGame.btExploration=Explore
+
+gui.inventory.degats=Damage : <0>
+gui.inventory.resistance=Resist : <0>
+gui.inventory.slotUsed=Item slot : <0>/<1>
+gui.inventory.weaponInUse=Weapon in use : <0>
+gui.inventory.armorInUse=Armor in use : <0>
+gui.inventory.btWeapon=Weapon
+gui.inventory.btArmor=Armor
+
+gui.military.btGoods=Goods
+
+gui.option.ckMusic=Music
+gui.option.ckSound=Sound
+gui.option.ckVibratorFeedBack=Vibrator / FeedBack
+gui.option.ckBigText=Big text hitbox
+gui.option.ckShowPlayersName=Show player's name
+
+gui.politics.btReputation=Standing
+gui.politics.btConflict=Conflicts
+gui.politics.btPromote=Promote
+gui.politics.rowData.titreDescFaction=Factions
+gui.politics.rowData.descFaction=<0> = <1> : <2>
+gui.politics.rowData.titreDescCorp=Corporations
+gui.politics.rowData.descCorp=<0> - <1> : <2> Rank: <3>
+gui.politics.rowData.conflictInfo=<0> vs <1>
+
+gui.saveGame.lv.row=[<0>] <1>
+gui.saveGame.bt.new=New
+gui.saveGame.bt.load=Load
+gui.saveGame.bt.delete=Delete
+
+gui.status.rowData.health=Health : <0>/<1>
+gui.status.rowData.starterProfession=Starter Profession : <0>
+gui.status.rowData.credits=Credits : <0>
+gui.status.rowData.skillPoints=Skill points remaining : <0>
+gui.status.rowData.skills=<0> : <1>
+gui.status.btSkills=Skills
+
+gui.skills.rowData.skills=<0> : <1> , Next level cost : <2>
+
+gui.system.btQuit=Quit
+gui.system.btPlay=Play
+gui.system.btOption=Options
+gui.system.btAchievement=Achievement
+gui.system.btChangeLogs=Change Logs
+gui.system.btAbout=About
+
+gui.transition.btContinue=Continue
+
+gui.travel.attack.a=You can't leave the ship '<0>'.
+gui.travel.attack.b=Someone or something doesn't allow you to leave the room !
+gui.travel.done=You can now reach the planet '<0>'.
+
+gui.vendor.rowData.item=<0> x <1> (own:<2>) Price S:<3> B:<4>
+gui.vendor.btBuy=Buy
+gui.vendor.btSell=Sell
+gui.vendor.btTransaction=Transaction
+gui.vendor.btMilitary.weapon=Weapon
+gui.vendor.btMilitary.armor=Armor
+gui.vendor.creditsLeft=Credits : <0>
+
+gui.viewMission.btAccept=Accept
+gui.viewMission.btReject=Reject
+gui.viewMission.btDelete=Delete
+gui.viewMission.btExecute=Reach
+gui.viewMission.btLocate=Locate

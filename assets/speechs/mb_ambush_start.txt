@@ -1,0 +1,6 @@
+Ambush
+One of our patrol teams noticed a suspicious looking hangar on it's system scanner. 
+I'd like you to investigate the matter. 
+Report back to me with your findings.
+I'll supply you with a bookmark to it's approximate location, just be wary of any other hostile activity in the area.
+Please, intercept <M> <T> ! You have only <TL> left ! 
